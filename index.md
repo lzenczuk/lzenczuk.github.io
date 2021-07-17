@@ -1,3 +1,7 @@
+### Base REST controller in Rust and Actix-web
+Example of typical REST service endpoints implemented in rust.
+
+
 # Hello world
 This is test of gh pages using markdown.
 
