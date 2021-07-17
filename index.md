@@ -1,4 +1,4 @@
-### Base REST controller in Rust and Actix-web
+### [Base REST controller in Rust and Actix-web](rust-actix-rest)
 Example of typical REST service endpoints implemented in rust.
 
 
