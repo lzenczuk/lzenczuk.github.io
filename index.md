@@ -1,3 +1,5 @@
+{% include_relative index_001.md %}
+
 ### Base REST controller in Rust and Actix-web
 Example of typical REST service endpoints implemented in rust. [Read...](./rust-actix-rest)
 
